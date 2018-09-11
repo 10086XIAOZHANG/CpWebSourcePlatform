@@ -45,3 +45,6 @@ urlpatterns = [
 ]
 
 # 通过social_django为项目提供第三方的分享
+
+
+# 博客地址： https://www.cnblogs.com/fuGuy/
