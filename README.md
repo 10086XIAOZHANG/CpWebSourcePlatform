@@ -58,4 +58,4 @@ urlpatterns = [
 #### 通过social_django为项目提供第三方的分享
 
 
- ##博客地址：[link](https://www.cnblogs.com/fuGuy/)
+ ##博客地址：[https://www.cnblogs.com/fuGuy/](https://www.cnblogs.com/fuGuy/)
