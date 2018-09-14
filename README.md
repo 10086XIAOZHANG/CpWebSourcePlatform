@@ -57,5 +57,6 @@ urlpatterns = [
 
 #### 通过social_django为项目提供第三方的分享
 
-
- ##博客地址：[https://www.cnblogs.com/fuGuy/](https://www.cnblogs.com/fuGuy/)
+### CP聚合博客Web端-基于react+dva2+andsign+react-router4.0框架——https://github.com/10086XIAOZHANG/CP-WEB-SOURCE-PlATFORM
+### CP聚合博客移动端——基于React Native支持Android和iOS双平台移动端APP: https://github.com/10086XIAOZHANG/CpBlogApp/tree/master
+### 博客地址：[https://www.cnblogs.com/fuGuy/](https://www.cnblogs.com/fuGuy/)
