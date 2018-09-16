@@ -4,7 +4,19 @@
 ![image](https://github.com/10086XIAOZHANG/blogImgAttr/blob/master/%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86.gif)
 ![image](https://github.com/10086XIAOZHANG/blogImgAttr/blob/master/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86.gif)
 #### 项目介绍
-
+- 文档自动化管理 / Django REST framework的缓存
+Throttling对用户和IP进行限速
+-集成QQ/微信/微博第三方登录
+- Authentication用户认证设置
+动态设置Permission、Authentication
+Validators实现字段验证
+- Serializer
+ModelSerializer
+动态设置Serializer
+- Apiview方式实现API接口 / GenericView方式实现API接口
+Viewset和Router方式实现API接口和URL配置
+Django_filter、SearchFilter、OrderFilter、分页 / 通用Mixins
+- 使用Redis对Django REST framework常用且访问大的开放接口进行缓存加速
 cp聚合博客--python后台
 
 #### 软件架构
